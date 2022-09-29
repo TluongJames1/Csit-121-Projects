@@ -1,0 +1,10 @@
+body {background-color: #FF7F7F;
+	background-image: linear-gradient(to bottom, #FFD700, #FF7F7F);
+	background-repeat:  no-repeat; 
+}
+#legos img {
+	border: 10px ridge #FFFFFF;
+	border-radius:  15px;
+	border-width: 10px;
+	box-shadow: 15px 15px 15px #000000;
+}
