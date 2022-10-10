@@ -1,0 +1,74 @@
+body{
+    background-color: #FF7F7F;
+    background-image: linear-gradient(to bottom, #FFD700, #FF7F7F);
+    background-repeat:  no-repeat; 
+}
+.HomePage{ 
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-position-y: 120px;
+    background-image: url(images/Website\ Background.png);
+    background-repeat:  no-repeat;
+	background-size: 100%;
+}
+
+h2{
+    text-align: center;
+    font-size: 36px;
+    color: #119994;
+}
+.Paragraph{
+    margin-top: 1000px;
+    font-size: 36px;
+    
+}
+
+.GamesP{
+    margin-top: 35px;
+    margin-right: 35px;
+    height: 400px;
+    width: 1000px;
+    font-size: 36px;
+
+}
+.navigation {
+	min-width:800px;
+	max-width: 800px;
+	border-radius: 10px;
+	text-align: center;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 25px;
+
+}
+.header{
+    margin-top: 40px;
+    text-align: center;
+    display: inline-block;
+}
+.name {
+    font-family: "Helvetica Neue";
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    width: 200px;
+    float: left;
+}
+.about_me{
+    font-size: 72px;
+    font-weight: Bold;
+}
+.Minecraft{
+    margin-top: 35px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 35px;
+}
+.Valorant{
+    margin-top: 35px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 35px;    
+}
+a:link {color: black;} a:visited {color: gray;} a:hover {color: #515157;}
